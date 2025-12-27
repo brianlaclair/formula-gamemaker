@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"formulaRenderer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"formulaRenderer",
+  "parent":{
+    "name":"software_rendering",
+    "path":"software_rendering.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

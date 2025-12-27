@@ -1,0 +1,37 @@
+{
+  "$GMProject":"v1",
+  "%Name":"software_rendering",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"teapot.obj","CopyToMask":-1,"filePath":"datafiles","name":"teapot.obj","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.14.1.210",
+  },
+  "name":"software_rendering",
+  "resources":[
+    {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},},
+    {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
+    {"id":{"name":"formulaRenderer","path":"scripts/formulaRenderer/formulaRenderer.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
